@@ -6,7 +6,7 @@ import { useAllocationStore } from "@/store/allocationStore";
 import AssistantPanel from "./AssistantPanel";
 import StudentForm from "./StudentForm";
 import CourseForm from "./CourseForm";
-import WelcomeCard from "./welcomeCard";
+import WelcomeCard from "./WelcomeCard";
 
 
 export default function Dashboard() {
